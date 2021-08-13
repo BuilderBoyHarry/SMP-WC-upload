@@ -1,0 +1,2 @@
+advancement grant AnnieMaree33_YT only more_advancements:adv2
+advancement grant AnnieMaree33_YT only more_advancements:adv7
